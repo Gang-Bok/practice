@@ -45,4 +45,7 @@ git clone 원격저장소 주소 .
 ```shell script
 git pull origin master
 ```
- ``
+
+## 5. GitHub에서 새로운 원격저장소 만들기
+1) Github에서 원격저장소를 만들고 이를 내 컴퓨터에 클론한다.
+2) 내 컴퓨터에서 먼저 로컬저장소를 만들고 GitHub에 원격저장소를 만들어 로컬저장소에 원격저장소 주소를 remote add 한다.
